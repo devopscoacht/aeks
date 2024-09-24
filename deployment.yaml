@@ -17,4 +17,3 @@ spec:
         image: <your-account-id>.dkr.ecr.us-east-1.amazonaws.com/eks-demo:latest
         ports:
         - containerPort: 80
-
